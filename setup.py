@@ -6,5 +6,5 @@ setup(
     url='',
     description='',
     packages=find_packages(),
-    dependency_links=['https://github.com/NMTruongGiang/twisted_py37.git#egg=Twisted']
+    dependency_links=['https://github.com/NMTruongGiang/twisted.git#egg=Twisted']
 )
